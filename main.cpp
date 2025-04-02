@@ -5,7 +5,10 @@ int main()
 {
 
 
-cout<<"Hello Git ";
+
 
     return 0;
 }
+int subtract(int a, int b) {
+    return a - b;
+   }
